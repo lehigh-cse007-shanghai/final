@@ -15,18 +15,24 @@ No Wechat & Email & Any tool for communication or collaboration.
 ### Easy
 Get your repo:
 
-If you should refer to the original state of the assignment:
-
+If you should refer to the original state of the assignment,
+use your **web browser** to read the code:
+https://github.com/lehigh-cse007-shanghai/final_easy_problems
 
 ### Medium
 Get your repo:
 
-If you should refer to the original state of the assignment:
+If you should refer to the original state of the assignment,
+use your **web browser** to read the code:
+https://github.com/lehigh-cse007-shanghai/final_medium_problems
+
 
 ### Difficult
 Get your repo:
 
-If you should refer to the original state of the assignment:
+If you should refer to the original state of the assignment,
+use your **web browser** to read the code:
+https://github.com/lehigh-cse007-shanghai/final_difficult_problems
 
 ## Video of explanation
 You are recommended to watch this video of explanation to better understand 
