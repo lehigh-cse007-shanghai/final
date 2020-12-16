@@ -13,14 +13,14 @@ No Wechat & Email & Any tool for communication or collaboration.
 
 ## Get your repo:
 ### Easy
-Get your repo: (Link to be updated at 8:15)
+Get your repo: https://classroom.github.com/a/PaVukAvq
 
 If you should refer to the original state of the assignment,
 use your **web browser** to read the code:
 https://github.com/lehigh-cse007-shanghai/final_easy_problems
 
 ### Medium
-Get your repo: (Link to be updated at 8:15)
+Get your repo: https://classroom.github.com/a/qGsgBSXk
 
 If you should refer to the original state of the assignment,
 use your **web browser** to read the code:
@@ -28,7 +28,7 @@ https://github.com/lehigh-cse007-shanghai/final_medium_problems
 
 
 ### Difficult
-Get your repo: (Link to be updated at 8:15)
+Get your repo: https://classroom.github.com/a/aOUmtwES
 
 If you should refer to the original state of the assignment,
 use your **web browser** to read the code:
